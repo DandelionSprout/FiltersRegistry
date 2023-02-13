@@ -7,7 +7,7 @@
   "expires": "4 days",
   "displayNumber": 249,
   "groupId": 7,
-  "subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt",
+  "subscriptionUrl": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuard.txt",
   "tags": [
     "recommended",
     "purpose:ads",
