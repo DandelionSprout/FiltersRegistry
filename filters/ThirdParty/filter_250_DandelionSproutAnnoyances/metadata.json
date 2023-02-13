@@ -7,7 +7,7 @@
   "expires": "4 days",
   "displayNumber": 100,
   "groupId": 4,
-  "subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList",
+  "subscriptionUrl": "https://gitlab.com/DandelionSprout/adfilt/-/raw/master/AnnoyancesList",
   "tags": [
     "purpose:annoyances",
     "reference:2"
