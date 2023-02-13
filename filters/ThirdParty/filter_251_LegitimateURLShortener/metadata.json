@@ -7,7 +7,7 @@
   "expires": "4 days",
   "displayNumber": 2,
   "groupId": 2,
-  "subscriptionUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+  "subscriptionUrl": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@master/LegitimateURLShortener.txt",
   "tags": [
     "purpose:privacy"
   ],
