@@ -150,6 +150,8 @@ biggestplayer.me##.adblock1
 /generate_204$
 ! https://github.com/AdguardTeam/AdguardFilters/issues/112370
 ||znctrack.net^$third-party
+! https://github.com/easylist/easylist/issues/18542
+||medlemskap.fagforbundet.no^
 ! End: EasyPrivacy
 !###################
 !
